@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 
 import './App.css'
 import MortgageCalculator from './components/MortgageCalculator'
-import MortgageResults from './components/MortgageResults.Jsx'
+import MortgageResults from "./components/MortgageResults"
 
 function App() {
 
